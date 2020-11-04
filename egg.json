@@ -1,0 +1,10 @@
+{
+    "name": "snelm",
+    "description": "Snelm: improved security middleware for deno web frameworks, derived from helmet for Node.",
+    "homepage": "https://github.com/denjucks/snelm",
+    "files": [
+    "./**/*.ts",
+    "README.md"
+    ],
+    "entry": "./mod.ts"
+}
